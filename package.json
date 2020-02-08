@@ -1,0 +1,26 @@
+{
+  "name": "TypeScriptSutdy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "ts-node-dev --respawn",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsuchiya-kai/TypeScriptSutdy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsuchiya-kai/TypeScriptSutdy/issues"
+  },
+  "homepage": "https://github.com/tsuchiya-kai/TypeScriptSutdy#readme",
+  "devDependencies": {
+    "ts-node": "^8.6.2",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.5"
+  }
+}
