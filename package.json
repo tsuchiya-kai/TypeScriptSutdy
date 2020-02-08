@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tsuchiya-kai/TypeScriptSutdy/issues"
   },
-  "homepage": "https://github.com/tsuchiya-kai/TypeScriptSutdy#readme"
+  "homepage": "https://github.com/tsuchiya-kai/TypeScriptSutdy#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
