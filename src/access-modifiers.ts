@@ -28,9 +28,9 @@ class Android extends Person {
     super(name, age, nationality);
   }
 
-  profile(): string {
-    // return `name: ${this.name}, age: ${this.age}, nationality: ${this.nationality}`;
-  }
+  // profile(): string {
+  //   return `name: ${this.name}, age: ${this.age}, nationality: ${this.nationality}`;
+  // }
 }
 
 let taro = new Person('Taro', 30, 'JP');
